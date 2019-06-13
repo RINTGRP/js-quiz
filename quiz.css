@@ -15,3 +15,7 @@
 body {
     margin: 0;
 }
+.overall {
+    width: 500px;
+    margin: 0 auto;
+}
